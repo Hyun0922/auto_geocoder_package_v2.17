@@ -1,0 +1,11 @@
+{
+  "api_key": "여기에_VWorld_API_KEY_입력",
+  "ssl_verify": false,
+  "request_interval": 0.05,
+  "request_timeout": 15,
+  "max_retry": 3,
+  "save_every": 100,
+  "validation_distance_m": 1000,
+  "default_sido": "",
+  "default_sigungu": ""
+}

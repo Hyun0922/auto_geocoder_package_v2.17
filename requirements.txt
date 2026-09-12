@@ -1,0 +1,8 @@
+pandas
+requests
+tqdm
+openpyxl
+xlrd
+pyproj
+pyinstaller
+Pillow
